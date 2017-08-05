@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2017/7/24 0024 20:50
+# @Time    : 2017/8/2 0024 20:50
 # @Author  : LiuXf
 # @File    : percepton.py
 # @Software: PyCharm Community Edition
